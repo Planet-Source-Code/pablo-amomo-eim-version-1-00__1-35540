@@ -1,0 +1,15 @@
+Server = 0, 0, 483, 419, , 22, 22, 644, 509, C
+Variables = 88, 88, 571, 507, 
+Inicializacion = 154, 154, 637, 573, 
+BaseDeDatos = 176, 176, 659, 595, C
+Logs = 198, 198, 681, 617, 
+Varios = 154, 154, 637, 573, 
+SocketTCP = 22, 22, 505, 441, 
+Comandos = 22, 22, 505, 441, 
+Aclaraciones = 0, 0, 483, 419, 
+ConfiguracionEnArchivo = 88, 88, 551, 507, 
+Encriptacion = 0, 0, 656, 318, 
+ComandosLoguin = 0, 0, 488, 419, 
+ComandosEstado = 22, 23, 417, 356, 
+ComandosListado = 132, 138, 527, 471, 
+SMTPMail = 132, 132, 709, 485, 
